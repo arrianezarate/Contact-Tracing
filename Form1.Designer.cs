@@ -1,6 +1,6 @@
 ﻿namespace Contact_Tracing
 {
-    partial class Form1
+    partial class F1
     {
         /// <summary>
         /// Required designer variable.
@@ -28,13 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.title = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // title
+            // 
+            this.title.AutoSize = true;
+            this.title.Font = new System.Drawing.Font("Palatino Linotype", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.title.Location = new System.Drawing.Point(24, 22);
+            this.title.Name = "title";
+            this.title.Size = new System.Drawing.Size(500, 87);
+            this.title.TabIndex = 0;
+            this.title.Text = "Contact Tracing";
+            // 
+            // F1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.ClientSize = new System.Drawing.Size(556, 869);
+            this.Controls.Add(this.title);
+            this.Name = "F1";
+            this.Text = "Contact Tracing";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label title;
     }
 }
 

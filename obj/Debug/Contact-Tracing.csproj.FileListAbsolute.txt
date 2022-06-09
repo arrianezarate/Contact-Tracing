@@ -1,0 +1,11 @@
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\bin\Debug\Contact-Tracing.exe.config
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\bin\Debug\Contact-Tracing.exe
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\bin\Debug\Contact-Tracing.pdb
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\obj\Debug\Contact-Tracing.csproj.AssemblyReference.cache
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\obj\Debug\Contact-Tracing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\obj\Debug\Contact_Tracing.F1.resources
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\obj\Debug\Contact_Tracing.Properties.Resources.resources
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\obj\Debug\Contact-Tracing.csproj.GenerateResource.cache
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\obj\Debug\Contact-Tracing.csproj.CoreCompileInputs.cache
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\obj\Debug\Contact-Tracing.exe
+C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\obj\Debug\Contact-Tracing.pdb
