@@ -20,7 +20,7 @@ namespace Contact_Tracing
 
         private void SubmitBTN_Click(object sender, EventArgs e)
         {
-            StreamWriter file = new StreamWriter(@"C:\Users\Arriane\Documents\Contact-Tracing.txt");
+            StreamWriter file = new StreamWriter(@"C:\Users\Arriane\source\repos\Contact-Tracing\Contact-Tracing\ContactTracing list\Info.txt");
             file.WriteLine("First Name: " + FnBox.Text);
             file.WriteLine("Middle Name: " + MnBox.Text);
             file.WriteLine("Last Name: " + LnBox.Text);
@@ -30,6 +30,14 @@ namespace Contact_Tracing
             file.WriteLine("Age: " + AgeBox.Text);
             file.WriteLine("Gender: " + GnBox.Text);
             file.Close();
+            MessageBox.Show("Thankyou for your response");
+            MnBox.Text = "";
+            LnBox.Text = "";
+            CnBox.Text = "";
+            EmBox.Text = "";
+            FaBox.Text = "";
+            AgeBox.Text = "";
+            GnBox.Text = "";
         }
     }
 }

@@ -61,6 +61,7 @@
             // 
             // FnBox
             // 
+            this.FnBox.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FnBox.Location = new System.Drawing.Point(12, 178);
             this.FnBox.Multiline = true;
             this.FnBox.Name = "FnBox";
@@ -91,6 +92,7 @@
             // 
             // MnBox
             // 
+            this.MnBox.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MnBox.Location = new System.Drawing.Point(12, 251);
             this.MnBox.Multiline = true;
             this.MnBox.Name = "MnBox";
@@ -110,6 +112,7 @@
             // 
             // LnBox
             // 
+            this.LnBox.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LnBox.Location = new System.Drawing.Point(12, 327);
             this.LnBox.Multiline = true;
             this.LnBox.Name = "LnBox";
@@ -129,6 +132,7 @@
             // 
             // CnBox
             // 
+            this.CnBox.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CnBox.Location = new System.Drawing.Point(12, 402);
             this.CnBox.Multiline = true;
             this.CnBox.Name = "CnBox";
@@ -148,6 +152,7 @@
             // 
             // EmBox
             // 
+            this.EmBox.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.EmBox.Location = new System.Drawing.Point(12, 473);
             this.EmBox.Multiline = true;
             this.EmBox.Name = "EmBox";
@@ -167,6 +172,7 @@
             // 
             // FaBox
             // 
+            this.FaBox.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FaBox.Location = new System.Drawing.Point(12, 548);
             this.FaBox.Multiline = true;
             this.FaBox.Name = "FaBox";
@@ -186,6 +192,7 @@
             // 
             // AgeBox
             // 
+            this.AgeBox.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AgeBox.Location = new System.Drawing.Point(297, 178);
             this.AgeBox.Multiline = true;
             this.AgeBox.Name = "AgeBox";
@@ -205,6 +212,7 @@
             // 
             // GnBox
             // 
+            this.GnBox.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.GnBox.Location = new System.Drawing.Point(297, 251);
             this.GnBox.Multiline = true;
             this.GnBox.Name = "GnBox";
