@@ -24,6 +24,11 @@ namespace Contact_Tracing
             file.WriteLine("First Name: " + FnBox.Text);
             file.WriteLine("Middle Name: " + MnBox.Text);
             file.WriteLine("Last Name: " + LnBox.Text);
+            file.WriteLine("Contact no.: " + CnBox.Text);
+            file.WriteLine("Email: " + EmBox.Text);
+            file.WriteLine("Full Address: " + FaBox.Text);
+            file.WriteLine("Age: " + AgeBox.Text);
+            file.WriteLine("Gender: " + GnBox.Text);
             file.Close();
         }
     }
